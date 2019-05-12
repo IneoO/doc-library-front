@@ -1,0 +1,15 @@
+/* https://color.adobe.com/Copy-of-Pointivo-color-theme-11350452 */
+@import './assets/scss/colors.scss';
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: $grey;
+  height: 100%;
+
+  * {
+    color: $light-blue;
+    box-sizing: border-box;
+    font-family: 'Noto Sans';
+  }
+}
